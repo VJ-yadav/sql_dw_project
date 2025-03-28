@@ -1,0 +1,8 @@
+#-- This script initializes the database by creating the necessary schemas in PostGRes 17SQL server.
+
+CREATE SCHEMA IF NOT EXISTS bronze;
+CREATE SCHEMA IF NOT EXISTS silver;
+CREATE SCHEMA IF NOT EXISTS gold;
+
+
+
