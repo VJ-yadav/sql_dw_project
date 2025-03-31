@@ -26,3 +26,24 @@ _Built with:_
 - PostgreSQL
 - Python
 - Great Expectations
+
+### 🚀 Next Steps & Roadmap
+
+#### Pipeline Enhancement
+
+1. _Orchestration Implementation_
+
+- Set up Airflow to automate end-to-end Silver→Gold layer execution
+- Configure task dependencies to ensure proper sequencing
+- Add data quality gates between transformation stages
+
+2. _Incremental Processing_
+
+- Implement Change Data Capture (CDC) for efficient updates
+- Design merge strategies for SCD Type 2 dimensions
+
+3. _Multi-Source Integration_
+
+- Phase 1: Add API-based CRM data (REST endpoints)
+- Phase 2: Stream Open Source free data via Kafka
+- Phase 3: Automate data pipleline components using DBT
