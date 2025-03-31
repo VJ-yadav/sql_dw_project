@@ -1,10 +1,10 @@
 
-Welcome to the **Data Warehouse Pipeline with Medallion Architecture** repository !
+# Welcome to the **Data Warehouse Pipeline with Medallion Architecture** repository !
 
 
-A PostgreSQL-based implementation following modern data engineering best practices
+## A PostgreSQL-based implementation following modern data engineering best practices
 
-Medallion Architecture Flow
+### Medallion Architecture Flow
 ![alt text](image.png)
 
 📌 Project Overview
