@@ -4,8 +4,9 @@
 
 ## A PostgreSQL-based implementation following modern data engineering best practices
 
-### Medallion Architecture Flow
-![alt text](image.png)
+### High Level Architecture of the ETL pipeline Flow
+![alt text](High_level_Architecture.png)
+
 
 📌 Project Overview
 This project ingests two flat-file data sources from external systems into a PostgreSQL data warehouse, implementing a Medallion Architecture (Landing → Bronze → Silver → Gold) with:
@@ -18,9 +19,10 @@ This project ingests two flat-file data sources from external systems into a Pos
 
 - Business-ready Gold layer
 
+### Medallion Architecture Flow
+![alt text](ETL pipeline Flow.png)
+
 *Built with:*
 - PostgreSQL
 - Python
 - Great Expectations
-
-
