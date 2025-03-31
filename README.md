@@ -50,9 +50,8 @@ _Built with:_
 
 📚 Learning Credits
 This project is developed with guidance from:
-Datasets: Modified samples from Kaggle Retail Dataset
+
 Architecture: Inspired by Medallion Architecture - Databricks
 
-Tutorials: Special thanks to [Data with Baraa](https://www.youtube.com/@DataWithBaraa) YouTube channel for:
-▶️ Building a Modern Data Warehouse
-▶️ PostgreSQL Optimization Techniques
+Tutorials: Special thanks to [Data with Baraa](https://www.youtube.com/@DataWithBaraa) YouTube channel for Amazing Youtube Videos:
+
